@@ -6,8 +6,8 @@ export default {
     // ============================================
     // SETTING LOGIN - TUKAR SINI
     // ============================================
-    const USERNAME = "admin";
-    const PASSWORD = "rahsia123";
+    const USERNAME = "USERNAME";
+    const PASSWORD = "PASSWORD";
     // ============================================
 
     const authResult = checkAuth(request, USERNAME, PASSWORD);
